@@ -1,0 +1,17 @@
+.link a {
+	text-decoration: none;
+	font-size: 28px;
+	color: rgb(0, 0, 0);
+
+	margin-right: 30px;
+}
+
+.link {
+	width: 100%;
+	height: 70px;
+	background-color: rgb(154, 154, 154);
+	border-radius: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}

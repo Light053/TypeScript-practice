@@ -1,0 +1,9 @@
+.user {
+	display: flex;
+	border: 1px solid rgb(0, 184, 178);
+	align-items: center;
+	padding: 6px;
+	margin-top: 7px;
+	font-size: 18px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

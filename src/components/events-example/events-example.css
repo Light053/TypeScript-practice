@@ -1,0 +1,20 @@
+.block1 {
+	width: 200px;
+	height: 200px;
+	background-color: cadetblue;
+	margin-top: 20px;
+}
+
+.block2 {
+	width: 200px;
+	height: 200px;
+	background-color: cadetblue;
+	margin-top: 20px;
+}
+
+.block2-red {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	margin-top: 20px;
+}
